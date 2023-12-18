@@ -1,0 +1,6 @@
+boto3
+requests==2.26.0
+urllib3==1.26.6
+ask-sdk-core
+ask-sdk-model
+openai
